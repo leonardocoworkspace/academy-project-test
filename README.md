@@ -1,2 +1,2 @@
-# academy-project-a
-progetto industriale gruppo a
+# academy-project-test
+progetto industriale repo di test - tutto il gruppo
